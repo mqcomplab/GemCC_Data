@@ -6,7 +6,8 @@ Planar models:
   - H4 (Trapezoidal)
   - P4 (Rectangular)
   - D4 (Linear)
-  - S4 (Square)    
+  - S4 (Square)  
+  
 Nonplanar models:    
   - T4
   - V4
