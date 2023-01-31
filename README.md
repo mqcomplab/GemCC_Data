@@ -1,13 +1,13 @@
 This folder contains the energy values obtained by using newly introduced GemCC flexible wavefunction-based 
 methods for following molecular systems. 
 
-**1. (H<sub>2</sub>)<sub>2</sub>**
-Planar models:
+**1. (H<sub>2</sub>)<sub>2</sub>**   
+Planar models:     
   - H4 (Trapezoidal)
   - P4 (Rectangular)
   - D4 (Linear)
-  - S4 (Square)
-Nonplanar models:
+  - S4 (Square)    
+Nonplanar models:    
   - T4
   - V4
 
