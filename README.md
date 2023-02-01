@@ -21,7 +21,7 @@ Nonplanar models:
 **5. H<sub>8</sub> Cube Stretching**
 
 **6. H<sub>10</sub>**
-  - chain
-  - ring
-  - sheet
-  - pyramid
+  - Chain
+  - Ring
+  - Sheet
+  - Pyramid
