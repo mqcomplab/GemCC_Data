@@ -25,3 +25,7 @@ Nonplanar models:
   - Ring
   - Sheet
   - Pyramid
+
+
+*FCI energy values are obtained from the GitHub repository of The Evangelista Lab.
+F.   A.   Evangelista   and   N.   H.   Stair,   “Github   repository:https://github.com/evangelistalab/hydrogen-models-data,” (2020)
