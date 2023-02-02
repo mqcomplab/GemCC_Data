@@ -1,4 +1,6 @@
-This folder contains the energy values obtained by using newly introduced GemCC flexible wavefunction-based 
+## GemCC Data
+
+This folder contains the results obtained by using newly introduced GemCC flexible wavefunction-based 
 methods using **STO-6G basis set** for following molecular systems. 
 
 **1. (H<sub>2</sub>)<sub>2</sub>**   
@@ -27,5 +29,7 @@ Nonplanar models:
   - Pyramid
 
 
-*FCI energy values are obtained from the GitHub repository of The Evangelista Lab.
+#### References:
+
+*FCI energy values for all H<sub>10</sub> systems are obtained from the GitHub repository of The Evangelista Lab.
 F.   A.   Evangelista   and   N.   H.   Stair,   “Github   repository:https://github.com/evangelistalab/hydrogen-models-data,” (2020)
