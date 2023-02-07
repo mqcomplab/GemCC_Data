@@ -28,6 +28,6 @@ Nonplanar models:
   - Sheet
   - Pyramid
 
-*FCI energy values for all H<sub>10</sub> systems are obtained from the GitHub repository of The Evangelista Lab.
+*FCI energy values for all H<sub>10</sub> systems are obtained from the GitHub repository of The Evangelista Lab.     
 F.   A.   Evangelista   and   N.   H.   Stair,   “Github   repository:https://github.com/evangelistalab/hydrogen-models-data,” (2020)
 
