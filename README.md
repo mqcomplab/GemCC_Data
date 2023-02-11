@@ -31,3 +31,5 @@ Nonplanar models:
 *FCI energy values for all H<sub>10</sub> systems are obtained from the GitHub repository of The Evangelista Lab.     
 F.   A.   Evangelista   and   N.   H.   Stair,   “Github   repository:https://github.com/evangelistalab/hydrogen-models-data,” (2020)
 
+# Acknowledgement
+This work was supported by Oak Ridge Associated Universities (ORAU) and The Molecular Sciences Software Institute (MolSSI). 
