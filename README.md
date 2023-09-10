@@ -1,7 +1,6 @@
 # GemCC Data
 
-This folder contains the results obtained by using newly introduced GemCC flexible wavefunction-based 
-methods using **STO-6G basis set** for following molecular systems. 
+This folder contains the results obtained by using newly introduced Coupled Cluster-Inspired flexible Geminal Wavefunctions based methods using **STO-6G basis set** for following molecular systems. 
 
 **1. (H<sub>2</sub>)<sub>2</sub>**   
 Planar models:     
@@ -30,4 +29,4 @@ Nonplanar models:
 F.   A.   Evangelista   and   N.   H.   Stair,   “Github   repository:https://github.com/evangelistalab/hydrogen-models-data,” (2020)
 
 ### Acknowledgements
-This work was supported by Oak Ridge Associated Universities (ORAU) and The Molecular Sciences Software Institute (MolSSI). 
+This work was supported by [Oak Ridge Associated Universities (ORAU)](https://www.orau.org/) and [The Molecular Sciences Software Institute (MolSSI)](https://molssi.org/). 
